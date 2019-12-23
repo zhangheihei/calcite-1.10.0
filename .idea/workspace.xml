@@ -32,7 +32,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/rules/ReduceExpressionsRule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9152">
+            <state relative-caret-position="9196">
               <caret line="493" column="50" selection-start-line="493" selection-start-column="36" selection-end-line="493" selection-end-column="50" />
             </state>
           </provider>
@@ -44,8 +44,6 @@
             <state relative-caret-position="1518">
               <caret line="90" column="17" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="17" />
               <folding>
-                <element signature="e#9151#9310#0" expanded="true" />
-                <element signature="e#9309#9310#0" expanded="true" />
                 <element signature="e#9465#9466#0" expanded="true" />
                 <element signature="e#9523#9524#0" expanded="true" />
               </folding>
@@ -180,7 +178,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/type/RelRecordType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="308">
               <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
               <folding>
                 <element signature="e#1950#1951#0" expanded="true" />
@@ -215,7 +213,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/metadata/ReflectiveRelMetadataProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
+            <state relative-caret-position="4026">
               <caret line="233" column="16" selection-start-line="233" selection-start-column="6" selection-end-line="233" selection-end-column="16" />
               <folding>
                 <element signature="e#6293#10325#0" expanded="true" />
@@ -270,8 +268,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/metadata/RelMetadataQuery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="720" column="61" lean-forward="true" selection-start-line="720" selection-start-column="13" selection-end-line="720" selection-end-column="61" />
+            <state relative-caret-position="322">
+              <caret line="724" column="11" lean-forward="true" selection-start-line="724" selection-start-column="11" selection-end-line="724" selection-end-column="11" />
               <folding>
                 <element signature="e#7457#7458#0" expanded="true" />
                 <element signature="e#7525#7526#0" expanded="true" />
@@ -285,7 +283,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/metadata/RelMdPredicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
+            <state relative-caret-position="1760">
               <caret line="153" column="36" selection-start-line="153" selection-start-column="31" selection-end-line="153" selection-end-column="36" />
             </state>
           </provider>
@@ -303,7 +301,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/metadata/BuiltInMetadata.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="8976">
               <caret line="436" column="26" selection-start-line="436" selection-start-column="26" selection-end-line="436" selection-end-column="26" />
             </state>
           </provider>
@@ -387,6 +385,9 @@
       <find>toString(</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -432,6 +433,13 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="65" />
     <option name="y" value="23" />
@@ -442,7 +450,11 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -490,17 +502,25 @@
       <workItem from="1576568447905" duration="27143000" />
       <workItem from="1576660975365" duration="7542000" />
       <workItem from="1577012459011" duration="2323000" />
+      <workItem from="1577104438532" duration="227000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1577104653667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577104653667</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="267587000" />
+    <option name="totallyTimeSpent" value="267830000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24908425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24908425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -534,6 +554,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/plan/hep/HepRelVertex.java">
@@ -732,7 +756,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/rules/ReduceExpressionsRule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9152">
+        <state relative-caret-position="9196">
           <caret line="493" column="50" selection-start-line="493" selection-start-column="36" selection-end-line="493" selection-end-column="50" />
         </state>
       </provider>
@@ -850,6 +874,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/type/RelRecordType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="e#1950#1951#0" expanded="true" />
+            <element signature="e#1971#1972#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
@@ -864,6 +899,19 @@
           <folding>
             <element signature="e#4854#5123#0" expanded="true" />
             <element signature="e#5122#5123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/metadata/ReflectiveRelMetadataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4026">
+          <caret line="233" column="16" selection-start-line="233" selection-start-column="6" selection-end-line="233" selection-end-column="16" />
+          <folding>
+            <element signature="e#6293#10325#0" expanded="true" />
+            <element signature="e#6628#10297#0" expanded="true" />
+            <element signature="e#10296#10297#0" expanded="true" />
+            <element signature="e#10324#10325#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -900,10 +948,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/metadata/RelMdPredicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="153" column="36" selection-start-line="153" selection-start-column="31" selection-end-line="153" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/plan/RelOptPredicateList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1034">
           <caret line="65" column="29" selection-start-line="65" selection-start-column="10" selection-end-line="65" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/metadata/BuiltInMetadata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8976">
+          <caret line="436" column="26" selection-start-line="436" selection-start-column="26" selection-end-line="436" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -941,48 +1003,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/type/RelRecordType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="e#1950#1951#0" expanded="true" />
-            <element signature="e#1971#1972#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/metadata/RelMdPredicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="153" column="36" selection-start-line="153" selection-start-column="31" selection-end-line="153" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/metadata/BuiltInMetadata.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="436" column="26" selection-start-line="436" selection-start-column="26" selection-end-line="436" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/metadata/ReflectiveRelMetadataProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="233" column="16" selection-start-line="233" selection-start-column="6" selection-end-line="233" selection-end-column="16" />
-          <folding>
-            <element signature="e#6293#10325#0" expanded="true" />
-            <element signature="e#6628#10297#0" expanded="true" />
-            <element signature="e#10296#10297#0" expanded="true" />
-            <element signature="e#10324#10325#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/org/apache/calcite/rel/metadata/RelMetadataQuery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="720" column="61" lean-forward="true" selection-start-line="720" selection-start-column="13" selection-end-line="720" selection-end-column="61" />
+        <state relative-caret-position="322">
+          <caret line="724" column="11" lean-forward="true" selection-start-line="724" selection-start-column="11" selection-end-line="724" selection-end-column="11" />
           <folding>
             <element signature="e#7457#7458#0" expanded="true" />
             <element signature="e#7525#7526#0" expanded="true" />
