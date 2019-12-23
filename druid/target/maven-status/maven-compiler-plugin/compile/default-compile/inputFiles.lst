@@ -1,0 +1,12 @@
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/druid/src/main/java/org/apache/calcite/adapter/druid/DruidConnection.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/druid/src/main/java/org/apache/calcite/adapter/druid/DruidResultEnumerator.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/druid/src/main/java/org/apache/calcite/adapter/druid/DruidDateTimeUtils.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/druid/src/main/java/org/apache/calcite/adapter/druid/DruidConnectionImpl.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/druid/src/main/java/org/apache/calcite/adapter/druid/DruidSchema.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/druid/src/main/java/org/apache/calcite/adapter/druid/DruidRules.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/druid/src/main/java/org/apache/calcite/adapter/druid/DruidTableFactory.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/druid/src/main/java/org/apache/calcite/adapter/druid/package-info.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/druid/src/main/java/org/apache/calcite/adapter/druid/DruidSchemaFactory.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/druid/src/main/java/org/apache/calcite/adapter/druid/QueryType.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/druid/src/main/java/org/apache/calcite/adapter/druid/DruidQuery.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/druid/src/main/java/org/apache/calcite/adapter/druid/DruidTable.java

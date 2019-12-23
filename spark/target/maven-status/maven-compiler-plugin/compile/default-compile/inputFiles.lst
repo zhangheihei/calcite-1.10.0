@@ -1,0 +1,12 @@
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/spark/src/main/java/org/apache/calcite/adapter/spark/SparkHandlerImpl.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/spark/src/main/java/org/apache/calcite/adapter/spark/SparkRules.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/spark/src/main/java/org/apache/calcite/adapter/spark/SparkToEnumerableConverter.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/spark/src/main/java/org/apache/calcite/adapter/spark/package-info.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/spark/src/main/java/org/apache/calcite/adapter/spark/EnumerableToSparkConverter.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/spark/src/main/java/org/apache/calcite/adapter/spark/SparkRuntime.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/spark/src/main/java/org/apache/calcite/adapter/spark/SparkRel.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/spark/src/main/java/org/apache/calcite/adapter/spark/EnumerableToSparkConverterRule.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/spark/src/main/java/org/apache/calcite/adapter/spark/JdbcToSparkConverter.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/spark/src/main/java/org/apache/calcite/adapter/spark/HttpServer.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/spark/src/main/java/org/apache/calcite/adapter/spark/SparkMethod.java
+/Users/zhanghe/edwin/apache-calcite-1.10.0-src/spark/src/main/java/org/apache/calcite/adapter/spark/JdbcToSparkConverterRule.java

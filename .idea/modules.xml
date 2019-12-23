@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/calcite.iml" filepath="$PROJECT_DIR$/calcite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cassandra/calcite-cassandra.iml" filepath="$PROJECT_DIR$/cassandra/calcite-cassandra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/calcite-core.iml" filepath="$PROJECT_DIR$/core/calcite-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/druid/calcite-druid.iml" filepath="$PROJECT_DIR$/druid/calcite-druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch/calcite-elasticsearch.iml" filepath="$PROJECT_DIR$/elasticsearch/calcite-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/calcite-example.iml" filepath="$PROJECT_DIR$/example/calcite-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/csv/calcite-example-csv.iml" filepath="$PROJECT_DIR$/example/csv/calcite-example-csv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/function/calcite-example-function.iml" filepath="$PROJECT_DIR$/example/function/calcite-example-function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linq4j/calcite-linq4j.iml" filepath="$PROJECT_DIR$/linq4j/calcite-linq4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongodb/calcite-mongodb.iml" filepath="$PROJECT_DIR$/mongodb/calcite-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piglet/calcite-piglet.iml" filepath="$PROJECT_DIR$/piglet/calcite-piglet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plus/calcite-plus.iml" filepath="$PROJECT_DIR$/plus/calcite-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark/calcite-spark.iml" filepath="$PROJECT_DIR$/spark/calcite-spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/splunk/calcite-splunk.iml" filepath="$PROJECT_DIR$/splunk/calcite-splunk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ubenchmark/calcite-ubenchmark.iml" filepath="$PROJECT_DIR$/ubenchmark/calcite-ubenchmark.iml" />
+    </modules>
+  </component>
+</project>

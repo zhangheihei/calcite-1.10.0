@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="calcite-linq4j" />
+        <module name="calcite-druid" />
+        <module name="calcite-example-csv" />
+        <module name="calcite-core" />
+        <module name="calcite-example-function" />
+        <module name="calcite-cassandra" />
+        <module name="calcite-piglet" />
+        <module name="calcite-mongodb" />
+        <module name="calcite-plus" />
+        <module name="calcite-ubenchmark" />
+        <module name="calcite-spark" />
+        <module name="calcite-elasticsearch" />
+        <module name="calcite-splunk" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="calcite" target="1.7" />
+      <module name="calcite-cassandra" target="1.7" />
+      <module name="calcite-core" target="1.7" />
+      <module name="calcite-druid" target="1.7" />
+      <module name="calcite-elasticsearch" target="1.7" />
+      <module name="calcite-example" target="1.7" />
+      <module name="calcite-example-csv" target="1.7" />
+      <module name="calcite-example-function" target="1.7" />
+      <module name="calcite-linq4j" target="1.7" />
+      <module name="calcite-mongodb" target="1.7" />
+      <module name="calcite-piglet" target="1.7" />
+      <module name="calcite-plus" target="1.7" />
+      <module name="calcite-spark" target="1.7" />
+      <module name="calcite-splunk" target="1.7" />
+      <module name="calcite-ubenchmark" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
